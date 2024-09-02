@@ -1,0 +1,28 @@
+.header1{
+    color: rgb(43, 24, 138);
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+}
+
+.header2{
+    color:rgb(43, 24, 138);
+    font-size: 28px;
+}
+.header3{
+    color: rgb(13, 13, 62);
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 700;
+}
+.box{
+    width: 50%;
+    border-width: 3px;
+    border-color: rgb(7, 31, 51);
+    border-style: dashed;
+    padding: 100px;
+    margin: auto;
+}
+.header4{
+    padding: 250px;
+}
